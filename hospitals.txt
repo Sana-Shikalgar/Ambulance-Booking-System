@@ -1,0 +1,33 @@
+32
+6	1	N R S Hospital
+8	4	Joshi Hospital
+10	3	Hardikar Hospital
+16	1	Blossom Health Center
+19	5	Triumph Medico
+30	1	Enchant Hospital
+35	4	Sassoon Hospital
+37	0	Jehangir Hospital
+38	3	Ruby Hall Clinic
+47	1	Radiant Care Hospital
+50	2	Central Secrateriat
+52	1	Lokmanya Hospital
+56	2	Nirvana Hospital
+60	0	Asija Hospital
+61	5	Global Hospital
+65	4	City Hospital
+69	0	Vishwaraj Hospital
+74	1	Indraprastha Apollo Hospitals
+77	4	Jaipur Golden Hospital
+82	5	Noble Health Pavilion
+86	2	Astra Medica
+91	3	Regal Wellness Hospital
+96	3	Apex Care Clinic
+102	2	Maharaja Agrasen Hospital
+106	2	KEM Hospital
+111	2	Cloudnine Hospitals
+113	1	Vanguard Medical Center
+118	5	Zenith Medical Institute
+120	3	Sephardic care Hospital
+127	0	Sapphire Health Hub
+129	3	Apollo Spectra Hospitals
+132	2	Deenanath Mangeshkar Hospital
